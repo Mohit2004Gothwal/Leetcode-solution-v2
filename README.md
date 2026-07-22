@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
