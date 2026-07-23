@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
