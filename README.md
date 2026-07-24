@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3612-process-string-with-special-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
