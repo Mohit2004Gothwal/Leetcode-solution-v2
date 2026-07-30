@@ -8,11 +8,11 @@ public:
 
     // cost is simply (i/8)+1;
     int minimumPushes(string word) {
-        int cost = 0;
-        for(int i=0;i<word.size();i++){
-            cost += (i/8)+1;
-        }
-        return cost;
+      int cost = 0;
+      for(int i=0;i<word.size();i++){
+        cost += (i/8)+1;
+      }
+      return cost;
         
     }
 };
