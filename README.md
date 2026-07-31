@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3536-maximum-product-of-two-digits) |
 ## Segment Tree
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -152,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
