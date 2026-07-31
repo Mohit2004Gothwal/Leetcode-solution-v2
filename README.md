@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -172,8 +173,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
