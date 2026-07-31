@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0224-basic-calculator) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0089-gray-code) |
+| [0224-basic-calculator](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
