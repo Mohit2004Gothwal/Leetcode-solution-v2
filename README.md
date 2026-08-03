@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -213,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
