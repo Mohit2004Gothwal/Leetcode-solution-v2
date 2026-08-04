@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0224-basic-calculator) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
+| [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
+| [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3731-find-missing-elements) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0090-subsets-ii) |
+| [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
