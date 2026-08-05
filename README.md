@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
