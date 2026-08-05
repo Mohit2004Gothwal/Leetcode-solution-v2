@@ -6,12 +6,12 @@ public:
             int k = wd.size();
             int sum =0;
             for(int i=0;i<k;i++){
-              int ind = weights[wd[i]-'a'];
-              sum += ind;
+              sum += weights[wd[i]-'a'];
+              
             }
             sum %=26;
-            sum = 25-sum;
-             char ch= 'a' + sum;
+           
+             char ch= 'z'-sum;
             res +=  ch;
 
         }
