@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3310-remove-methods-from-project) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -204,10 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3310-remove-methods-from-project](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3310-remove-methods-from-project) |
 ## Design
 |  |
 | ------- |
