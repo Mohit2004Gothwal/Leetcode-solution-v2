@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3838-weighted-word-mapping](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
