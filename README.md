@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0224-basic-calculator) |
+| [0636-exclusive-time-of-functions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
