@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0224-basic-calculator) |
 | [0636-exclusive-time-of-functions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0056-merge-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
