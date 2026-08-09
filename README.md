@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1441-build-an-array-with-stack-operations) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 ## Quicksort
 |  |
@@ -300,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0279-perfect-squares) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
