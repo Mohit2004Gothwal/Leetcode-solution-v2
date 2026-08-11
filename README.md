@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -167,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Number Theory
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -334,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
