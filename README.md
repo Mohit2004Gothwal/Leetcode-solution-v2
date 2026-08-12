@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
