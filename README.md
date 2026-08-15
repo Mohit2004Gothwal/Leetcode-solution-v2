@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0221-maximal-square) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Depth-First Search
