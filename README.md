@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2607-make-k-subarray-sums-equal) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -353,10 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
