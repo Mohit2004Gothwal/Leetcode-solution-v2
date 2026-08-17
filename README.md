@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1563-stone-game-v](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
