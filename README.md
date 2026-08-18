@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0146-lru-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 ## Trie
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
