@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1563-stone-game-v](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1563-stone-game-v) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1840-maximum-building-height](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
@@ -286,11 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1563-stone-game-v) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0221-maximal-square) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
