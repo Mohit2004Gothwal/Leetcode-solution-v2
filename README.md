@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1386-cinema-seat-allocation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2029-stone-game-ix) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
