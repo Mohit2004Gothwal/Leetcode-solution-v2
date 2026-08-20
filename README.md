@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2607-make-k-subarray-sums-equal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3838-weighted-word-mapping) |
 ## Linked List
