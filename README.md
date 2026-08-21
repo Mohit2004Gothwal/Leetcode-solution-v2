@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0875-koko-eating-bananas) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1386-cinema-seat-allocation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/1622-fancy-sequence) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2607-make-k-subarray-sums-equal) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
 |  |
