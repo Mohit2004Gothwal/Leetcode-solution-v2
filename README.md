@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3546-equal-sum-grid-partition-i) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3838-weighted-word-mapping) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3546-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Mohit2004Gothwal/Leetcode-solution-v2/tree/master/3546-equal-sum-grid-partition-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
